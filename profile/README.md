@@ -1,6 +1,6 @@
 # Cognitive Architectures
 
-Cognitive Architectures is A software development studio dedicated to building tools that help people think, learn, and live with greater depth and intention.
+Cognitive Architectures is a software development studio dedicated to building tools that help people think, learn, and live with greater depth and intention.
 
 ---
 
