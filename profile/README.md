@@ -24,7 +24,7 @@ A reading environment for people who want to read, connect, remember, and build 
 - X: [@CognitiveArchs](https://x.com/cognitivearchs)
 
 **Aleph Library**
-- Website: [cognitivearchs.com](https://cognitivearchs.com)
+- Website: [alephlibrary.com](https://alephlibrary.com)
 
 ---
 
